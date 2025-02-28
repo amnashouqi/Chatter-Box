@@ -18,6 +18,7 @@ io.on("connection", (socket) => {
 
   socket.on("send_message", (data) => {
     io.emit("receive_message", data); // Broadcast message to all users
+    console.log("📩 Message received:", data);
   });
 
   socket.on("disconnect", () => {
