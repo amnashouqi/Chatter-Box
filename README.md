@@ -36,4 +36,3 @@ This project is still in progress, and new features are being added regularly.
    ```bash
    npm run dev
    ```
-
