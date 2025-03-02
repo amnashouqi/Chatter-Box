@@ -1,6 +1,9 @@
-1. minor fixes like msg overflow vertically below the typing part  
+1. minor fixes like msg overflow vertically below the typing part, padding - done 
 2. I need a user placeholder image thing for the user. 
 3. Save it to the db
 4. Sign in/sign up for user and store in db
 5. add a navigator column kinda thing in the left to access any past chats from the db
 6. Dark version and light version
+7. stored user name instead of random ID 
+8. Dont repeat the user name if its the same user who msged last
+9. by default the last message should be visible lowering the need to scroll
