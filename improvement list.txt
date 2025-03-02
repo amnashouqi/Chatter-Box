@@ -6,4 +6,9 @@
 6. Dark version and light version
 7. stored user name instead of random ID 
 8. Dont repeat the user name if its the same user who msged last
+<<<<<<< HEAD
 9. by default the last message should be visible lowering the need to scroll
+=======
+9. by default the last message should be visible lowering the need to scroll
+
+>>>>>>> f19d907e0d60de81696685b33b3c2c2950470116
